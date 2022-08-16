@@ -2,9 +2,10 @@
 
 
 
-Hoobank (https://hoobank-1.netlify.app/) is a minimal website for a bank. A minimal design with responsiveness and soothing design along using the most in demand technologies today.
+Hoobank (https://hoobank-1.netlify.app/) is a minimal website for a bank. A minimal design with responsiveness and soothing design along with using the most in demand technologies today to build and deploy.
 
 Built With
+
 This website is built with React.js and Tailwindcss. In addition, vite was used to initialize the react application.
 
 HTML
