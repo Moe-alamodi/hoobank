@@ -5,7 +5,7 @@
     <img src="./src/assets/logo.svg" alt="Logo" width="300" height="100">
   </a>
 
-  <h3 align="center">Bankist-web</h3>
+  <h3 align="center">Hoobank</h3>
 
   <p align="center">
     Modern responsive website for a bank.
