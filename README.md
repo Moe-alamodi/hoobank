@@ -36,7 +36,7 @@ This website is built with React.js and Tailwindcss. In addition, vite was used 
 - [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
 - [Tailwindcss](https://tailwindcss.com/docs/installation)
 - [React.js](https://reactjs.org/)
-- [vite](https://vitejs.dev/)
+- [Vite.js](https://vitejs.dev/)
 - [NPM](https://www.npmjs.com/)
 
 
