@@ -27,7 +27,7 @@
 
 <!--[![Product Name Screen Shot][product-screenshot]](https://hoobank-1.netlify.app/)-->
 
-Hoobank is a minimal website for a bank. A minimal design with responsiveness and soothing design along with using the most in demand technologies today to build and deploy.
+Hoobank is a modern and responsive website for a bank. A minimal design with responsiveness and soothing design along with using the most in demand technologies today to build and deploy.
 
 ### Built With
 
