@@ -34,10 +34,11 @@ Hoobank is a modern and responsive website for a bank. A minimal design with res
 This website is built with React.js and Tailwindcss. In addition, vite was used to initialize the react application.
 
 - [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
-- [Tailwindcss](https://tailwindcss.com/docs/installation)
 - [React.js](https://reactjs.org/)
 - [Vite.js](https://vitejs.dev/)
 - [NPM](https://www.npmjs.com/)
+- [Tailwindcss](https://tailwindcss.com/docs/installation)
+
 
 
 ## Getting Started
