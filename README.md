@@ -25,7 +25,7 @@
 
 ## About The Project
 
-<!--[![Product Name Screen Shot][product-screenshot]](https://hoobank-1.netlify.app/)-->
+<!---![Portfolio Website](https://i.ibb.co/8dg325Q/hoobank.png)--->
 
 Hoobank is a modern and responsive website for a bank. A minimal design with responsiveness and soothing design along with using the most in demand technologies today to build and deploy.
 
